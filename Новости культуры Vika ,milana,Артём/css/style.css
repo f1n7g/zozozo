@@ -1,0 +1,30 @@
+body{
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size:16px;
+}
+.fif {
+    display: block; /* Блочный элемент (для старых браузеров) */
+    text-align: center; /* Выравнивание по центру */
+    font-style: italic; /* Курсивное начертание */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 5px; /* Отступ снизу */
+    color: #666; /* Цвет подрисуночной подписи */
+
+}
+.site-navigation-item{
+	text-align:center;
+	display: inline-block;
+	margin: 65px;
+ }
+.headline{
+	text-align:center;
+} 
+.promo{
+	text-align:center;
+}
+
+.reviews-list{
+
+	    display:flex;
+}
